@@ -13,11 +13,5 @@ Inception是一个开源系统，每个人或者每个公司都可以自由使�
 
 ## 文档地址：
 
-http://mysql-inception.github.io/inception-document/
+https://inception-document.readthedocs.io/zh_CN/latest/
 
-## 联系方式
-
-### 王竹峰
-
-* 邮箱：doathink@gmail.com
-* Inception讨论QQ群：185803996
